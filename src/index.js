@@ -8,7 +8,7 @@ import '@/style/index.scss'
 import '@/day_06/style/index.scss'
 import { Provider } from 'react-redux';
 import store from '@/day_06/store'
-import App from '@/day_08/App'
+import App from '@/day_01/App'
 
 
 // 渲染根组件到#root
